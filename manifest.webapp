@@ -1,0 +1,12 @@
+{
+  "name": "Sechelt",
+  "developer": {
+    "name": "Boris Smus",
+    "url": "https://github.com/borismus"
+  },
+  "launch_path": "/sechelt",
+  "icons": {
+    "128": "/sechelt/images/icon.png"
+  },
+  "orientation": "landscape"
+}

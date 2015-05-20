@@ -4,9 +4,9 @@
     "name": "Boris Smus",
     "url": "https://github.com/borismus"
   },
-  "launch_path": "/sechelt",
+  "launch_path": "index.html",
   "icons": {
-    "128": "/sechelt/images/icon.png"
+    "128": "/images/icon.png"
   },
   "orientation": "landscape"
 }
